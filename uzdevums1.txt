@@ -1,2 +1,6 @@
-Hello my name is
-123
+Lietotne skaita uz atpakaļu lietotāja izvēlēto laiku.
+Lietotnē jabūt lodziņam ar laiku uz kā lietotājs var uzpeist un nomainīt laiku, pogai "sākt" un pogai "beigt".
+Ievaddati būs laiks.
+Rezultātu attelo lodziņā kur ir laiks.
+Ievaddati var būt, piemēŗam, 5 minūtes, 33 sekundes vai 45 stundas.
+Šī ir vienkārša lietotne ko var izmantot situācijās kurās vajag zināt kad ir pagājis noteikts laika daudzums.
