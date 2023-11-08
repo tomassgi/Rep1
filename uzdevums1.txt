@@ -1,5 +1,5 @@
 Lietotne skaita uz atpakaļu lietotāja izvēlēto laiku.
-Lietotnē jabūt lodziņam ar laiku uz kā lietotājs var uzpeist un nomainīt laiku, pogai "sākt" un pogai "beigt".
+Lietotnē jabūt lodziņam ar laiku uz kā lietotājs var uzpeist un nomainīt laiku, pogai "sākt" un pogai "beigt". // Nesaprotams vārds ''uzpeist''
 Ievaddati būs laiks.
 Rezultātu attelo lodziņā kur ir laiks.
 Ievaddati var būt, piemēŗam, 5 minūtes, 33 sekundes vai 45 stundas.
